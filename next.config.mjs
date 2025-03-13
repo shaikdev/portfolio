@@ -1,8 +1,8 @@
 // next.config.mjs
 const nextConfig = {
     output: 'export', // Enables static export
-    basePath: '/myPortfolio', // Replace with your repo name
-    assetPrefix: '/myPortfolio/',
+    basePath: '/portfolio', // Replace with your repo name
+    assetPrefix: '/portfolio/',
     images: {
       unoptimized: true, // Required for GitHub Pages
     },
